@@ -14,6 +14,9 @@ apk接入sdk步骤：
    将父类修改为 .super Lcom/jzb/haocai/haocaisdk/App;
    注意：将整个文件的父类全部修改
    
+3、修改ReplugMainActivity
+   修改入口Activity
+   
 4、修改apktool.yml
 	 在apktool.yml文件中修改unknownFiles
 	 
